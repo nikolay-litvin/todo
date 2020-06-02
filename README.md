@@ -1,2 +1,3 @@
 This is my first app of React
-I am Nikolay
+
+This project build from video course
