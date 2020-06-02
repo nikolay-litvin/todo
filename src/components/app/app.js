@@ -22,7 +22,7 @@ export default class App extends Component {
 
         this.setState(({ todoData }) => {
            const idx = todoData.findIndex((el) => el.id === id);
-           // Hello! My name is Nikolay? my work
+
            // todoDate.splice(idx, 1);
            // НЕЛЬЗЯ! Нельзя изменять существующий state, ведь
            // splice меняет существующий массив
