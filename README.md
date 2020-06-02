@@ -1,4 +1,4 @@
-This is my first app of React
+TodoApp based on ReactJS
 
-This project build from video course of Yuriy Bura
+This is the learning project of improvement todo app on browser
 
